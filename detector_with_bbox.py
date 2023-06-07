@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import cv2
 from ultralytics.yolo.utils.plotting import Annotator
 
-model = YOLO('D:/Job/trash_detector/runs/detect/train/weights/best.pt')
+model = YOLO('detect_train_test/train/weights/best_v2.pt')
 cap = cv2.VideoCapture(0)
 cap.set(3, 640)
 cap.set(4, 480)
