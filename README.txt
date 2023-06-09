@@ -4,17 +4,8 @@ Project Author: Zasya Eka
 Dataset:
     1. Source: https://universe.roboflow.com/tugas-akhir-rqdtx/wastecreativenoaug-26zne/dataset/2#
     2. Class: { botol plastik, 
-                cangkang telur, 
-                gelas plastik, 
-                kaleng, 
                 kantong plastik, 
-                kardus, 
-                sachet, 
-                sedotan plastik, 
-                sendok plastik,
-                stik es krim,
-                tusuk sate,
-                tutup botol}
+                sachet}
 
 
 Object Detection Model:
